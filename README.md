@@ -1,7 +1,7 @@
 - Hi, I’m @touhid-hossain
 - I’m interested in functional stuffs. 
 - I’m currently learning JS/React-JS
-- I’m looking to collaborate on ...(Waiting)
+- Currently, I’m looking for a job ...(Waiting)
 - How to reach me ...? 
      Send mail at -- [touhid.dev@gmail.com]
      
